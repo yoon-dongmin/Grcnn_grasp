@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<launch>
+  <node name="grcnn_service" pkg="grcnn" type="grcnn_service.py" output="screen"/>
+</launch>
